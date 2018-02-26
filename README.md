@@ -55,7 +55,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 `ln -s /mnt/c/ Win`
 
-`sudo apt-get install build-essentials`
+`sudo apt-get install build-essential`
 
 `sudo apt-get update`
 
