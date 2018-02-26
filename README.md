@@ -90,6 +90,14 @@ You can now start the Jupyter Browser shell by issuing
 
 This will print a link starting with localhost:... which you should post into your browser.
 
+4. Visualization and model building
+
+* You might also want to install the following packages for model building:
+
+- Avogadro: https://avogadro.cc/
+
+- VESTA: http://jp-minerals.org/vesta/en/
+
 
 ## For Mac
 
