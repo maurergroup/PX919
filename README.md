@@ -1,4 +1,5 @@
 # CompChem_Notebooks
+--------------------
 
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
@@ -17,16 +18,15 @@ You can run these notebooks on your own computer if you follow the installation 
 --------------
 
 
-For Win
+## For Win
 
 
 
-For Mac
+## For Mac
 
 
 
-For Linux
-
+## For Linux
 
 
 
@@ -40,12 +40,10 @@ For Linux
 * matplotlib
 * numpy/scipy
 
-
 These requirements are easiest satisfied when using Anaconda or the Psi4 prepacked conda installer (see above).
 
 
 
-
-copyright
+### copyright
 Reinhard J. Maurer, U Warwick
 
