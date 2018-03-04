@@ -14,6 +14,16 @@ Topics include
 
 You can run these notebooks on your own computer if you follow the installation procedures below
 
+# Quick online start guide
+------------------
+
+Paste `https://github.com/maurergroup/CompChem_Notebooks`
+into the Github Repo field on the following webpage:
+
+`https://mybinder.org/`
+
+This will instantly open an interactive Jupyter notebook in your browser.
+
 # Installation
 --------------
 
@@ -55,7 +65,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 `ln -s /mnt/c/ Win`
 
-`sudo apt-get install build-essentials`
+`sudo apt-get install build-essential`
 
 `sudo apt-get update`
 
@@ -68,7 +78,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 `bash psi4conda-1.1-py36-Windows-x86_64.sh`
 
 When asked for your password always provide. When asked y/n, always answer y.
-* After installation, we add some more important packages using the `conda` command
+3. **After installation, we add some more important packages using the `conda` command**
 
 `conda install -c conda-forge ase`
 
@@ -76,7 +86,7 @@ When asked for your password always provide. When asked y/n, always answer y.
 
 `conda install numpy scipy matplotlib`
 
-3. **Finally, we download the notebooks**
+4. **Finally, we download the notebooks**
 
 *In your ubuntu shell, issue
 
@@ -90,7 +100,7 @@ You can now start the Jupyter Browser shell by issuing
 
 This will print a link starting with localhost:... which you should post into your browser.
 
-4. Visualization and model building
+5. **Visualization and model building**
 
 * You might also want to install the following packages for model building:
 
@@ -98,14 +108,25 @@ This will print a link starting with localhost:... which you should post into yo
 
 - VESTA: http://jp-minerals.org/vesta/en/
 
-
 ## For Mac
 
+* Open a command line terminal and execute
 
+`wget http://vergil.chemistry.gatech.edu/psicode-download/psi4conda-1.1-py36-MacOSX-x86_64.sh`
+
+`bash psi4conda-1.1-py36-MacOSX-x86_64.sh`
+
+Follow steps 3 to 5 in the Windows installation instructions.
 
 ## For Linux
 
+* Open a command line terminal and execute
 
+`wget http://vergil.chemistry.gatech.edu/psicode-download/psi4conda-1.1-py36-Linux-x86_64.sh`
+
+`bash psi4conda-1.1-py36-Linux-x86_64.sh`
+
+Follow steps 3 to 5 in the Windows installation instructions.
 
 # Prerequisites
 ---------------
