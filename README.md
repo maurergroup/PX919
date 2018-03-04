@@ -24,7 +24,7 @@ Paste
 
 into the Github Repo field on the following webpage:
 
-`https://mybinder.org/`
+https://mybinder.org
 
 This will instantly open an interactive Jupyter notebook in your browser.
 
