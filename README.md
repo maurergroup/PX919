@@ -17,7 +17,11 @@ You can run these notebooks on your own computer if you follow the installation 
 # Quick online start guide
 ------------------
 
-Paste `https://github.com/maurergroup/CompChem_Notebooks`
+Paste 
+
+`https://github.com/maurergroup/CompChem_Notebooks`
+
+
 into the Github Repo field on the following webpage:
 
 `https://mybinder.org/`
