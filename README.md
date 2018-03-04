@@ -1,6 +1,9 @@
 # CompChem_Notebooks
 --------------------
 
+!!!**WARNING** This is work in progress and some things don't yet work "out of the box" (or at all)...!!!
+Please bear with me...
+
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
 
