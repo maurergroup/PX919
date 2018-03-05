@@ -35,6 +35,7 @@ https://mybinder.org
 
 It will load a few minutes as it satisfies the dependencies.
 This will open an interactive Jupyter notebook in your browser.
+After opening it, navigate to the folder and notebook that you want to start.
 
 # Installation
 --------------
