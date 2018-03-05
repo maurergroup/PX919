@@ -4,9 +4,11 @@ channels:
 - reinimaurer1
 - conda-forge
 - anaconda
+- pyqc
 dependencies:
 - psi4
 - psi4-rt
+- pyscf
 - v2rdm_casscf
 - python=3.6
 - ipython=6.1.0
