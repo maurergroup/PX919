@@ -1,1 +1,1 @@
--e git:github.com/maurergroup/qm_playground.git#egg=qmp
+-e https://github.com/maurergroup/qm_playground.git#egg=qmp
