@@ -1,12 +1,15 @@
 channels:
-- conda-forge
-- defaults
 - psi4
+- defaults
 - reinimaurer1
+- conda-forge
 dependencies:
+- python=3.6
+- psi4
 - matplotlib
 - numpy
 - scipy
-- psi4
-- ase
+- bokeh
+- ipywidgets
 - qmp
+- ase
