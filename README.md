@@ -2,7 +2,7 @@
 --------------------
 
 !!!**WARNING** This is work in progress and some things don't yet work "out of the box" (or at all)...!!!
-Please bear with me...
+Please bear with me... **WARNING**!!!
 
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
@@ -29,7 +29,8 @@ into the Github Repo field on the following webpage:
 
 https://mybinder.org
 
-This will instantly open an interactive Jupyter notebook in your browser.
+It will load a few minutes as it satisfies the dependencies.
+This will open an interactive Jupyter notebook in your browser.
 
 # Installation
 --------------
