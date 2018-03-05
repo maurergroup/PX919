@@ -1,7 +1,7 @@
 build-essential
 libgcc-5-dev
 libstdc++-5-dev
-libstdc++-6
+libstdc++6
 gcc-5-base
 libcpio
 
