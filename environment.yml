@@ -2,9 +2,11 @@ channels:
 - conda-forge
 - defaults
 - psi4
+- reinimaurer1
 dependencies:
 - matplotlib
 - numpy
 - scipy
 - psi4
 - ase
+- qmp
