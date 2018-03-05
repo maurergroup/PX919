@@ -1,6 +1,9 @@
 # CompChem_Notebooks
 --------------------
 
+!!!**WARNING** This is work in progress and some things don't yet work "out of the box" (or at all)...!!!
+Please bear with me...
+
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
 
@@ -17,10 +20,14 @@ You can run these notebooks on your own computer if you follow the installation 
 # Quick online start guide
 ------------------
 
-Paste `https://github.com/maurergroup/CompChem_Notebooks`
+Paste 
+
+`https://github.com/maurergroup/CompChem_Notebooks`
+
+
 into the Github Repo field on the following webpage:
 
-`https://mybinder.org/`
+https://mybinder.org
 
 This will instantly open an interactive Jupyter notebook in your browser.
 
