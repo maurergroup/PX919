@@ -20,7 +20,11 @@ You can run these notebooks on your own computer if you follow the installation 
 # Quick online start guide
 ------------------
 
-Paste 
+Just click here:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maurergroup/CompChem_Notebooks/master)
+
+or paste 
 
 `https://github.com/maurergroup/CompChem_Notebooks`
 
