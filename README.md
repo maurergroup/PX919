@@ -1,18 +1,8 @@
-# CompChem_Notebooks
+# PX919: Quantum Chemistry module
 --------------------
-
-!!!**WARNING** This is work in progress and some things don't yet work "out of the box" (or at all)...!!!
-Please bear with me... **WARNING**!!!
 
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
-
-Topics include
-* `/QuantumMechanics` - Basic model systems from quantum mechanics
-* TODO - Molecular and Solid state chemical bonding concepts (2nd year Solid State)
-* TODO - Topics of Molecular Modelling (3rd year Molecular Modelling)
-* TODO - Materials/Interface prediction with Density Functional Theory and Beyond (4th year Adv. Quantum Chemistry)
-* `/WaveFunctionMethods` - Tutorials on Wave function methods (Graduate school class on molecular Modelling)
 
 
 You can run these notebooks on your own computer if you follow the installation procedures below
