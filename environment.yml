@@ -5,17 +5,20 @@ channels:
 - conda-forge
 - anaconda
 - pyqc
+- rdkit
+- iwatobipen
 dependencies:
 - psi4
 - psi4-rt
 - v2rdm_casscf
-- python=3.6
+- python
 - ipython=6.1.0
-- setuptools=27.2.0
-- six=1.10.0
-- gcp=2.0.1
-- dbus=1.10.20
-- glib=2.50.2
+- nbconvert=5.6.1
+- setuptools
+- six
+- gcp
+- dbus
+- glib
 - gmp=6.1.0
 - ipykernel=4.6.1
 - libgcc=5.2.0
@@ -33,6 +36,8 @@ dependencies:
 - scipy
 - bokeh=0.12.7
 - ipywidgets
+- rdkit
 - qmp
 - ase
-- rise
+- debtcollector
+- psikit
