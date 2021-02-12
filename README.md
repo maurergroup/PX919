@@ -4,6 +4,7 @@
 This repo contains a collection of Jupyter notebooks, which I use for teaching 
 in computational chemistry for undergraduate and graduate classes at U Warwick.
 
+Some of the content is taken from the excellent psi4numpy repository of QC tutorials.
 
 You can run these notebooks on your own computer if you follow the installation procedures below
 
@@ -145,6 +146,5 @@ These requirements are easiest satisfied when using Anaconda or the Psi4 prepack
 
 
 
-### copyright
 Reinhard J. Maurer, U Warwick
 
