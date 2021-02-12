@@ -1,18 +1,11 @@
 name: PX919env
 channels:
 - psi4
-- defaults
-- reinimaurer1
-- conda-forge
 - rdkit
 - iwatobipen
+- conda-forge
+- defaults
 dependencies:
-- psi4
-- setuptools
-- six
-- gcp
-- dbus
-- glib
 - ipykernel
 - matplotlib
 - numpy
@@ -20,9 +13,10 @@ dependencies:
 - bokeh
 - ipywidgets
 - rdkit
-- qmp
-- ase
-- debtcollector
 - mdtraj
 - nglview
+- ase
+- psi4
+- debtcollector
 - psikit
+- py3dmol
