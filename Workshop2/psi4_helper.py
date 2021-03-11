@@ -1,7 +1,7 @@
 """
 psi4_helper.py
 helper functions to use psi4 in conjunction with ASE
-"""
+""" 
 
 
 def geom_ase_to_psi4(atoms, charge=0, multiplicity=1, symmetry='c1' ):
