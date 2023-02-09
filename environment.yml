@@ -18,7 +18,6 @@ dependencies:
 - psi4
 - resp
 - debtcollector
-- psikit
 - pip:
   - "--editable=git+https://github.com/Mishima-syk/psikit"
 - py3dmol
