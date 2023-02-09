@@ -17,7 +17,7 @@ Just click here:
 
 or paste 
 
-`https://github.com/maurergroup/CompChem_Notebooks`
+`https://github.com/maurergroup/PX919`
 
 
 into the Github Repo field on the following webpage:
