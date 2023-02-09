@@ -13,7 +13,7 @@ You can run these notebooks on your own computer if you follow the installation 
 
 Just click here:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maurergroup/CompChem_Notebooks/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maurergroup/PX919/master)
 
 or paste 
 
