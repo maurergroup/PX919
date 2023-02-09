@@ -2,7 +2,6 @@ name: PX919env
 channels:
 - psi4
 - rdkit
-- iwatobipen
 - conda-forge
 - defaults
 dependencies:
@@ -17,6 +16,9 @@ dependencies:
 - nglview
 - ase
 - psi4
+- resp
 - debtcollector
 - psikit
+- pip:
+  - "--editable=git+https://github.com/Mishima-syk/psikit"
 - py3dmol
