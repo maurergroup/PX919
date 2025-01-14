@@ -8,6 +8,12 @@ Some of the content is taken from the excellent psi4numpy repository of QC tutor
 
 You can run these notebooks on your own computer if you follow the installation procedures below
 
+
+# Students of module PX919
+------------------
+Please ignore the installation instructions. Go straight to the PX919 Moodle page and follow the instructions for setup on the SC RTP.
+
+
 # Quick online start guide
 ------------------
 
