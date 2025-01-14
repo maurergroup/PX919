@@ -1,21 +1,24 @@
 name: PX919env
 channels:
-- psi4
-- rdkit
 - conda-forge
-- defaults
+- rdkit
+- nodefaults
 dependencies:
+- python
+- pip
 - ipykernel
 - matplotlib
-- numpy
+- numpy<2.0.0
 - scipy
 - ipywidgets
+- ipympl
+- nodejs
 - rdkit
 - nglview
 - ase
 - psi4
+- conda-forge/label/libint_dev::libint
+- dftd3-python
 - resp
 - debtcollector
-- pip:
-  - git+https://github.com/Mishima-syk/psikit.git
 - py3dmol
