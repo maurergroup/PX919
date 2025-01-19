@@ -11,7 +11,8 @@ You can run these notebooks on your own computer if you follow the installation 
 
 # Students of module PX919
 ------------------
-Please ignore the installation instructions. Go straight to the PX919 Moodle page and follow the instructions for setup on the SC RTP.
+Please ignore the installation instructions. 
+Go straight to the PX919 Moodle page and follow the instructions for setup on the SC RTP.
 
 
 # Quick online start guide
